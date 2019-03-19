@@ -4,7 +4,6 @@ import Movies from './components/Movies/Movies.jsx';
 import Movie from './components/Movie/Movie.jsx';
 import './App.css';
 
-
 //Parent component to manage routes & state
 export default class App extends Component {
   constructor(props) {

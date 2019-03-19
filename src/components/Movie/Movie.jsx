@@ -6,7 +6,6 @@ import Loading from '../Loading/Loading.jsx';
 const CONSTANTS = require('../../utils/constants');
 const API = require('../../utils/API').default;
 
-
 //Component to render a movie
 export default class Movie extends Component {
   constructor(props) {
@@ -82,9 +81,7 @@ export default class Movie extends Component {
                       )
                     })}
                     </div>
-                  <button className="btn btn-primary btn-block btn-lg mt-5">
-                    Vote
-                  </button>
+                  <button className="btn btn-primary btn-block btn-lg mt-5">Vote</button>
                 </div>
               </div>
             </div>

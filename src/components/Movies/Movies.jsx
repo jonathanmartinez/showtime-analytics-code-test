@@ -6,7 +6,6 @@ import './Movies.css';
 const CONSTANTS = require('../../utils/constants');
 const API = require('../../utils/API').default;
 
-
 //Component to display a single movie
 export default class Movies extends Component {
   constructor(props) {

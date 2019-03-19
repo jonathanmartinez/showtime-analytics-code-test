@@ -6,7 +6,7 @@ export default class Navbar extends Component {
   render() {
     return (
       <header 
-        style={{background: this.props.backdrop ? `url(https://image.tmdb.org/t/p/original${this.props.backdrop})` : `url(${CONSTANTS.DEFAULT_COVER})`}}
+        style={{background: this.props.backdrop ? `url(${CONSTANTS.IMG_URL}/original${this.props.backdrop})` : `url(${CONSTANTS.DEFAULT_COVER})`}}
         className={this.props.backdrop ? 'with-backdrop' : ''}>
       </header>
     );
