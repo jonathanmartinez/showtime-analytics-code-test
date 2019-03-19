@@ -1,0 +1,10 @@
+header {
+  background-color: #1464A5;
+  height: 300px;
+}
+
+.with-backdrop {
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}

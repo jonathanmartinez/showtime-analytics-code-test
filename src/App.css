@@ -1,0 +1,16 @@
+[data-reactroot] { 
+    background-color: #ededed;
+    min-height: 100vh;
+}
+
+.my-container {
+    min-height: 600px;
+    margin-top: -150px;
+    background-color: white;
+    padding-left: 40px !important;
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    padding-right: 40px !important;
+    border-radius: 8px;
+  }
+  
