@@ -20,7 +20,7 @@ npm run build
 ```
 
 <div align="center">
-    <img src="https://github.com/jonathanmartinez/bloombees-code-test/blob/master/demo.png?raw=true" alt="Demo">
+    <img src="https://github.com/jonathanmartinez/showtime-analytics-code-test/blob/master/demo.png?raw=true" alt="Demo">
     <br>
-    <img src="https://github.com/jonathanmartinez/bloombees-code-test/blob/master/demo2.png?raw=true" alt="Demo">
+    <img src="https://github.com/jonathanmartinez/showtime-analytics-code-test/blob/master/demo2.png?raw=true" alt="Demo">
 </div>
